@@ -1,0 +1,18 @@
+@media only screen and (min-width: 400px) {
+
+    .row {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+    .div3 {
+        text-align: center;
+    }
+
+@media only screen and (min-width: 800px) {
+    .row {
+        display: flex;
+        flex-direction: row;
+    }
+}
